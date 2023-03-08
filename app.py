@@ -4,7 +4,7 @@ import openai
 
 app = Flask(__name__)
 
-openai.api_key = "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"
+openai.api_key = " "
 model_engine = "text-davinci-003"
 
 
